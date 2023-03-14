@@ -54,7 +54,7 @@ unique(dat$Status)
   # TODO 
 
 ################################
-# Q 8: Complete the following code to apply the forth to the twenty-second columns of "deving" to the corePlot() fuction. Note the line above this function, "dev.off()" is there to remove plots which may still be residing in memory, and would cause an error for corPlot().
+# Q 8: Complete the following code to apply the fourth to the twenty-second columns of "deving" to the corePlot() fuction. Note the line above this function, "dev.off()" is there to remove plots which may still be residing in memory, and would cause an error for corPlot().
   
   # TODO: complete the code
 
@@ -74,7 +74,7 @@ unique(dat$Status)
     # TODO
 
 ################################  
-# Q 11: Complete the following code to apply the forth to the twenty-second columns of "deved" to the corePlot(). Note the line above this function, "dev.off()" is there to remove plots which may still be residing in memory, and would cause an error for corPlot().
+# Q 11: Complete the following code to apply the fourth to the twenty-second columns of "deved" to the corePlot(). Note the line above this function, "dev.off()" is there to remove plots which may still be residing in memory, and would cause an error for corPlot().
 
   # TODO: complete the code
   
