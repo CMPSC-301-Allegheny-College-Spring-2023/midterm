@@ -19,7 +19,7 @@ Dr. Bonham-Carter
 * Please follow the Honor Code of Allegheny College (https://sites.allegheny.edu/about/honor-code/) 
 * You are to work alone on this test. 
 * There can be no sharing of any information between test-takers.
-* In accordance with department policies, plagiarism will be tested.
+* In accordance with department policies, testing for plagiarism will be applied.
 
 ```
 Honor Code
