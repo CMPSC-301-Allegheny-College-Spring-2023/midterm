@@ -36,7 +36,7 @@
         fragment: TODO
         count: 0
         exact: true
-    - description: Delete the 'Add Your Name Here' prompt in the reflection file
+    - description: Delete the 'Add Your Name Here' prompt in midterm_2023.R
       check: MatchFileFragment
       options:
         fragment: "Add Your Name Here"
