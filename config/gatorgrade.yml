@@ -22,7 +22,7 @@
     #     count: 0
     #     exact: true
 
-- src/code.r:
+- src/midterm_2023.R:
     - description: Ensure that midterm_2023.R file exists in the src/ directory
       check: ConfirmFileExists
     # - description: Write a minimum number of meaningful words in the reflection
@@ -30,7 +30,7 @@
     #   options:
     #     count: 400
     #     exact: false
-    - description: Complete all TODOs, remove the TODO markers in the code.r
+    - description: Complete all TODOs, remove the TODO markers in the midterm_2023.R
       check: MatchFileFragment
       options:
         fragment: TODO
